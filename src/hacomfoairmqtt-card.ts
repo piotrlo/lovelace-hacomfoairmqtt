@@ -183,9 +183,9 @@ export class HAComfoAirMQTTCard extends LitElement {
       justify-content: space-between;
       align-items: center;
       position: absolute;
-      width: 140px;
+      width: 90px;
       left: 50%;
-      margin-left: -190px;
+      margin-left: -165px;
     }
 
     .temperatures-in {
